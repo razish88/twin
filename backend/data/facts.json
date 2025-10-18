@@ -1,0 +1,30 @@
+{
+    "full_name": "Razi Shahbari",
+    "name": "Razi",
+    "current_role": "Lead AI Software Engineer",
+    "location": "Daburiyya, Israel",
+    "email": "razish88@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/razi-shahbari/",
+    "github": "https://github.com/razish88",
+    "specialties": [
+      "Computer Vision",
+      "Large Language Models (LLMs)",
+      "Production-grade AI Systems",
+      "MLOps",
+      "Deep Learning",
+      "AI Product Strategy"
+    ],
+    "years_experience": 9,
+    "education": [
+      {
+        "degree": "Master's degree, Artificial Intelligence",
+        "institution": "University of Liverpool",
+        "year": "2024-2026"
+      },
+      {
+        "degree": "B.Sc. Electrical & Electronics Engineering",
+        "institution": "Tel Aviv University",
+        "year": "2008-2012"
+      }
+    ]
+  }
